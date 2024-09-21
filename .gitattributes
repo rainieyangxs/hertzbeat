@@ -15,7 +15,7 @@
 # limitations under the License.
 #
 
-/home export-ignore
+#/home export-ignore
 /hip export-ignore
 /.github export-ignore
 /.idea export-ignore
